@@ -1,0 +1,1689 @@
+{
+  "home": {
+    "sliders": [
+      {
+        "picLink": "http://m.173kz.com/activity/v5.1/banner.jpg",
+        "urlLink": "http://m.173kz.com/activity/v5.1/index.html"
+      },
+      {
+        "picLink": "http://m.173kz.com/activity/v3.21/banner.jpg",
+        "urlLink": "http://m.173kz.com/activity/v3.21/index.html"
+      },
+      {
+        "picLink": "http://m.173kz.com/activity/v4.8/banner.jpg",
+        "urlLink": "http://m.173kz.com/activity/v4.8/index.html"
+      }
+    ],
+    "icons": [
+      {
+        "iconLink": "http://m.173kz.com/img/nav01.png",
+        "txt": "全部分类"
+      },
+      {
+        "iconLink": "http://m.173kz.com/img/nav02.png",
+        "txt": "慢 性 病"
+      },
+      {
+        "id": 13,
+        "iconLink": "http://m.173kz.com/img/nav03.png",
+        "txt": "家庭常备"
+      },
+      {
+        "iconLink": "http://m.173kz.com/img/nav04.png",
+        "txt": "良济堂滋补"
+      },
+      {
+        "iconLink": "http://m.173kz.com/img/nav05.png",
+        "txt": "会员中心"
+      },
+      {
+        "iconLink": "http://m.173kz.com/img/nav06.png",
+        "txt": "购 物 车"
+      },
+      {
+        "urlLink": "tel:4008678391",
+        "iconLink": "http://m.173kz.com/img/nav07.png",
+        "txt": "联系客服"
+      },
+      {
+        "urlLink": "http://m.173kz.com/Html/company/index.html",
+        "iconLink": "http://m.173kz.com/img/nav08.png",
+        "txt": "公司简介"
+      }
+    ],
+    "activity": [
+      {
+        "id": 150526108427,
+        "picLink": "http://m.173kz.com/img/150526108427.jpg",
+        "price": 14,
+        "oldPrice": 18.5,
+        "txt": "同仁堂 六味地黄丸 120丸",
+        "size": [
+          "200丸",
+          "360粒",
+          "9g*10丸",
+          "120丸"
+        ],
+        "details": [
+          {
+            "title": "同仁堂 六味地黄丸(浓缩丸) 200丸",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146736/1707131467367015.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146736/1707131467369302.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146736/1707131467366888.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146736/1707131467363689.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146736/1707131467368301.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 23.00,
+                "mprice": 38.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "同仁堂 归芍地黄丸 9G*10丸",
+                "price": "13.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/6584003001/65840030015527.jpg"
+              },
+              {
+                "txt": "同仁堂 耳聋左慈丸 60g",
+                "price": "16.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/7884115001/78841150015955.jpg"
+              },
+              {
+                "txt": "昆中 杞菊地黄丸 6g*20袋",
+                "price": "19.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4792249001/47922490015433.jpg"
+              },
+              {
+                "txt": "宜利康 维参锌胶囊 0.38g*12粒",
+                "price": "32.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2017/01/2481274001/24812740019284.jpg"
+              },
+              {
+                "txt": "百年丹 固本延龄丸 9g*18丸",
+                "price": "79.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/4632732001/46327320014088.jpg"
+              },
+              {
+                "txt": "同仁堂 六味地黄丸[水蜜丸] 360粒",
+                "price": "17.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/19/20156191112126647.jpg"
+              }
+            ]
+          },
+          {
+            "title": "同仁堂 六味地黄丸[水蜜丸] 360粒",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619114063/1506191140632397.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619114063/1506191140634066.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619114063/1506191140636294.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619114063/1506191140635980.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619114063/1506191140632437.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 17.00,
+                "mprice": 23.00
+              },
+              {
+                "txt": "5盒起：16元/盒（30天量）",
+                "num": 5,
+                "price": 16.00,
+                "mprice": 23.00
+              },
+              {
+                "txt": "10盒起：15.5元/盒（60天量）",
+                "num": 10,
+                "price": 15.50,
+                "mprice": 23.00
+              },
+              {
+                "txt": "15盒起：15元/盒（90天量）",
+                "num": 15,
+                "price": 15.00,
+                "mprice": 23.00
+              }
+            ],
+            "suitWrapper": [
+              {
+                "txt": "【套餐一】 六味地黄丸*6盒+知柏地黄丸*5盒",
+                "num": 1,
+                "price": 151.50,
+                "mprice": 157.00
+              },
+              {
+                "txt": "【套餐二】 六味地黄丸3盒+肾宝片2盒",
+                "num": 1,
+                "price": 650.50,
+                "mprice": 695.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "白云山中一 六味地黄丸 60g",
+                "price": "8.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2016/05/2805508001/28055080018465.jpg"
+              },
+              {
+                "txt": "长城牌 海马补肾丸  60粒*2瓶",
+                "price": "197.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150513167293/1505131672931734.jpg"
+              },
+              {
+                "txt": "佛慈 知柏地黄丸 200丸",
+                "price": "15.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/18/20156181545238855.jpg"
+              },
+              {
+                "txt": "唐龙 杞菊地黄丸 4*48粒",
+                "price": "9.80",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/18/2015618166505329.jpg"
+              },
+              {
+                "txt": "同仁堂 六味地黄丸 9g*10丸",
+                "price": "12.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/19/2015619931325593.jpg"
+              },
+              {
+                "txt": "同仁堂 人参固本丸 9g*10丸",
+                "price": "43.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/23/20157231619527623.jpg"
+              }
+            ]
+          },
+          {
+            "title": "同仁堂 六味地黄丸 9g*10丸",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619096468/1506190964688900.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619096468/1506190964688586.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619096468/1506190964685044.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619096468/1506190964688586.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/150619096468/1506190964685142.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 12.50,
+                "mprice": 19.00
+              },
+              {
+                "txt": "6盒起：12元/盒（可使用30天）",
+                "num": 6,
+                "price": 12.00,
+                "mprice": 19.00
+              },
+              {
+                "txt": "12盒起：11.5元/盒（可使用60天）",
+                "num": 12,
+                "price": 11.50,
+                "mprice": 19.00
+              },
+              {
+                "txt": "18盒起：11元/盒（可使用90天）",
+                "num": 18,
+                "price": 11.00,
+                "mprice": 19.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "白云山中一 六味地黄丸 60g",
+                "price": "8.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2016/05/2805508001/28055080018465.jpg"
+              },
+              {
+                "txt": "九芝堂 六味地黄丸 200丸",
+                "price": "15.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/5/26/20155261148225704.jpg"
+              },
+              {
+                "txt": "仲景 六味地黄丸 200丸",
+                "price": "18.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/5/28/20155281724116327.jpg"
+              },
+              {
+                "txt": "同仁堂 知柏地黄丸 360粒",
+                "price": "11.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/1505191446851/15051914468517892.jpg"
+              },
+              {
+                "txt": "同仁堂 六味地黄丸 9g*10丸",
+                "price": "12.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/19/2015619931325593.jpg"
+              },
+              {
+                "txt": "同仁堂 六味地黄丸[水蜜丸] 360粒",
+                "price": "17.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/19/20156191112126647.jpg"
+              }
+            ]
+          },
+          {
+            "title": "同仁堂 六味地黄丸[浓缩丸] 120丸",
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 14.00,
+                "mprice": 27.00
+              },
+              {
+                "txt": "6盒起：13.5元/盒",
+                "num": 6,
+                "price": 13.50,
+                "mprice": 27.00
+              },
+              {
+                "txt": "12盒起：13元/盒",
+                "num": 12,
+                "price": 13.00,
+                "mprice": 27.00
+              },
+              {
+                "txt": "18盒起：12.5元/盒",
+                "num": 18,
+                "price": 12.50,
+                "mprice": 27.00
+              }
+            ],
+            "state": "现在有货",
+            "suitWrapper": [
+              {
+                "txt": "【套餐一】 六味地黄丸*5盒+肾宝片*2盒",
+                "num": 1,
+                "price": 669.00,
+                "mprice": 714.00
+              },
+              {
+                "txt": "【套餐二】 六味地黄丸*6盒+知柏地黄丸*5盒",
+                "num": 1,
+                "price": 133.50,
+                "mprice": 139.00
+              }
+            ],
+            "recommend": [
+              {
+                "txt": "白云山中一 六味地黄丸 60g",
+                "price": "8.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2016/05/2805508001/28055080018465.jpg"
+              },
+              {
+                "txt": "同仁堂 六味地黄丸[浓缩丸] 120丸",
+                "price": "14.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150526108427/1505261084272778.jpg"
+              },
+              {
+                "txt": "同仁堂 知柏地黄丸 360粒",
+                "price": "11.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/06/1505191446851/15051914468517892.jpg"
+              },
+              {
+                "txt": "九芝堂 杞菊地黄丸 200丸",
+                "price": "12.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/18/20156181542347090.jpg"
+              },
+              {
+                "txt": "同仁堂 人参固本丸 9g*10丸",
+                "price": "43.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/23/20157231619527623.jpg"
+              },
+              {
+                "txt": "宛西仲景 六味地黄丸 360丸",
+                "price": "26.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/24/20157241452583018.jpg"
+              }
+            ],
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150526108427/1505261084272778.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150526108427/1505261084275536.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150526108427/1505261084274407.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150526108427/1505261084276193.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150526108427/1505261084278107.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 150917160621,
+        "picLink": "http://m.173kz.com/img/150917160621.jpg",
+        "price": 32,
+        "oldPrice": 41,
+        "txt": "众生 固肾合剂 10ml*10支",
+        "size": ["10ml*10支"],
+        "details": [
+          {
+            "title": "众生 固肾合剂 10支",
+            "pic": [
+              "http://img.173kz.com/FileUpload/PictureMobile/2015/9/17/2015917171259215.jpg",
+              "http://img.173kz.com/FileUpload/PictureMobile/2015/9/17/2015917171231951.jpg",
+              "http://img.173kz.com/FileUpload/PictureMobile/2015/9/17/2015917171287304.jpg",
+              "http://img.173kz.com/FileUpload/PictureMobile/2015/9/17/2015917171303079.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/150917160621/1509171606212934.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 32.00,
+                "mprice": 45.90
+              },
+              {
+                "txt": "3盒起：30元/盒（可使用15天）",
+                "num": 3,
+                "price": 30.00,
+                "mprice": 45.90
+              },
+              {
+                "txt": "6盒起：29.5元/盒（可使用30天，一疗程）",
+                "num": 6,
+                "price": 29.50,
+                "mprice": 45.90
+              },
+              {
+                "txt": "12盒起：29元/盒（可使用60天）",
+                "num": 12,
+                "price": 29.00,
+                "mprice": 45.90
+              },
+              {
+                "txt": "18盒起：28元/盒（可使用90天）",
+                "num": 18,
+                "price": 28.00,
+                "mprice": 45.90
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "同仁堂 金鸡虎补丸 240粒",
+                "price": "29.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/6997469001/69974690015703.jpg"
+              },
+              {
+                "txt": "同仁堂 补肾强身片 0.28g*60片",
+                "price": "21.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/7170421001/71704210019294.jpg"
+              },
+              {
+                "txt": "同仁堂 锁精丸 4g*12袋",
+                "price": "118.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/5594604001/55946040012593.jpg"
+              },
+              {
+                "txt": "太极 补肾益寿胶囊 0.3g*60粒",
+                "price": "69.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4730293001/47302930014770.jpg"
+              },
+              {
+                "txt": "汇仁牌 肾宝片 0.7g*126片",
+                "price": "322.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/28/20157281647405408.jpg"
+              },
+              {
+                "txt": "同仁堂 补肾强身片 0.28g*60片",
+                "price": "21.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/7170421001/71704210019294.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9238812001,
+        "picLink": "http://m.173kz.com/img/9238812001.jpg",
+        "price": 17.8,
+        "oldPrice": 23,
+        "txt": "丹南泰 和胃整肠丸 0.2g*50s",
+        "size": ["0.2g*50粒"],
+        "details": [
+          {
+            "title": "丹南泰 和胃整肠丸 0.2g*50粒",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/9238812001/92388120012915.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/9238812001/92388120018655.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/9238812001/92388120013640.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/9238812001/92388120016368.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/9238812001/92388120019193.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 17.50,
+                "mprice": 26.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "东北制药 盐酸小檗碱片 0.1克*100片",
+                "price": "8.80",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4646481001/46464810012977.jpg"
+              },
+              {
+                "txt": "冯了性 保济丸 3.7g*20袋",
+                "price": "6.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/9096629001/90966290011011.jpg"
+              },
+              {
+                "txt": "昆中 止泻利颗粒 15g*8袋",
+                "price": "26.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/6137264001/61372640017756.jpg"
+              },
+              {
+                "txt": "花城 腹可安片 24片",
+                "price": "3.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/11/8606184001/86061840015307.jpg"
+              },
+              {
+                "txt": "喇叭牌 正露丸 0.22g*100粒",
+                "price": "36.80",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/5/26/20155261823572400.jpg"
+              },
+              {
+                "txt": "扬子江 胃苏颗粒 15g*9袋",
+                "price": "28.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713149494/1707131494945681.JPG"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 150528150824,
+        "picLink": "http://m.173kz.com/img/150528150824.jpg",
+        "price": 9.9,
+        "oldPrice": 12.5,
+        "txt": "同仁堂 加味逍遥丸 6g*10袋",
+        "size": ["6g*10袋"],
+        "details": [
+          {
+            "title": "同仁堂 加味逍遥丸 6g*10袋",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150528150824/1505281508246448.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150528150824/1505281508242748.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150528150824/1505281508248048.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150528150824/1505281508245820.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 9.90,
+                "mprice": 15.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "三花 暖宫七味散 3g*5袋",
+                "price": "37.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/1315920001/13159200013991.jpg"
+              },
+              {
+                "txt": "润达君 益母草颗粒 15g*10袋",
+                "price": "6.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/5/28/2015528152128802.jpg"
+              },
+              {
+                "txt": "汇仁 女金胶囊 0.38g*12粒*4板",
+                "price": "168.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2017/04/5595439001/55954390012496.jpg"
+              },
+              {
+                "txt": "月月舒 痛经宝颗粒 10g*10袋",
+                "price": "33.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/21/20157211727251852.jpg"
+              },
+              {
+                "txt": "陈李济 乌鸡白凤丸 6g*10袋",
+                "price": "23.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/4451164001/44511640018139.jpg"
+              },
+              {
+                "txt": "仲景 逍遥丸 200丸",
+                "price": "18.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/9/11/20159111627301837.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 150516173054,
+        "picLink": "http://m.173kz.com/img/150516173054.jpg",
+        "price": 75,
+        "oldPrice": 86,
+        "txt": "九芝堂 驴胶补血颗粒 20g*30袋",
+        "size": ["20g*30袋"],
+        "details": [
+          {
+            "title": "九芝堂 驴胶补血颗粒 20g*30袋",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150516173054/1505161730545841.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150516173054/1505161730545527.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150516173054/1505161730548727.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150516173054/1505161730548197.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150516173054/1505161730542898.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 103.00,
+                "mprice": 123.60
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "天士力 养血清脑颗粒 4g*9袋",
+                "price": "25.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/19/2015619155129913.jpg"
+              },
+              {
+                "txt": "陈李济 新血宝胶囊 0.25g*24粒",
+                "price": "16.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/5/18/20155181431261507.jpg"
+              },
+              {
+                "txt": "白云山 蛤蚧大补胶囊 0.5g*30粒",
+                "price": "9.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/8818833001/88188330018964.jpg"
+              },
+              {
+                "txt": "聚荣 黄芪精 10ml*10支",
+                "price": "12.80",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/8/11/2015811101477976.jpg"
+              },
+              {
+                "txt": "福牌 阿胶 250g(精装)",
+                "price": "1109.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2017/11/3916038001/39160380012891.jpg"
+              },
+              {
+                "txt": "佛慈 柏子滋心丸 200丸",
+                "price": "12.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150826177347/1508261773476325.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 150730103078,
+        "picLink": "http://m.173kz.com/img/150730103078.jpg",
+        "price": 34,
+        "oldPrice": 42,
+        "txt": "慢严舒柠 清喉利咽颗粒 5g*18袋",
+        "size": ["5g*18袋"],
+        "details": [
+          {
+            "title": "慢严舒柠 清喉利咽颗粒 5g*18袋",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/07/150730103078/1507301030784560.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/07/150730103078/1507301030789859.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/07/150730103078/1507301030784403.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/07/150730103078/1507301030787189.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/07/150730103078/1507301030782175.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 34.00,
+                "mprice": 64.80
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "健民 健民咽喉片 0.292g*8片*2板",
+                "price": "12.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150807098623/1508070986231300.jpg"
+              },
+              {
+                "txt": "华素片 西地碘含片 1.5mg*15片",
+                "price": "8.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/31/2015731141202787.jpg"
+              },
+              {
+                "txt": "碑林 金嗓开音丸 360粒",
+                "price": "15.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/31/2015731119312284.jpg"
+              },
+              {
+                "txt": "黄氏 黄氏响声丸 0.133g*36丸*2板",
+                "price": "15.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/30/2015730163186729.jpg"
+              },
+              {
+                "txt": "桂林三金 西瓜霜清咽含片 1.8g*16片",
+                "price": "5.90",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImg/2015/07/150730165752/1507301657523699.jpg"
+              },
+              {
+                "txt": "华素片 西地碘含片 1.5mg*15片",
+                "price": "8.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/31/2015731141202787.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "department": [
+      {
+        "title": "家庭常备",
+        "txt": "感冒发烧/消化不良",
+        "picLink": "http://m.173kz.com/img/07.png",
+        "id" : 113
+      },
+      {
+        "title": "肝胆科",
+        "txt": "乙肝/保肝护肝",
+        "picLink": "http://m.173kz.com/img/08.png",
+        "id" : 176
+      },
+      {
+        "title": "心脑血管科",
+        "txt": "高血压/高血糖/冠心病",
+        "picLink": "http://m.173kz.com/img/09.png",
+        "id" : 56
+      },
+      {
+        "title": "医疗器械",
+        "txt": "血糖仪/血压计",
+        "picLink": "http://m.173kz.com/img/10.png",
+        "id" : 6
+      },
+      {
+        "title": "神经科",
+        "txt": "癫痫/帕金森",
+        "picLink": "http://m.173kz.com/img/11.png",
+        "id" : 372
+      },
+      {
+        "title": "传统滋补",
+        "txt": "西洋参/阿胶/花茶",
+        "picLink": "http://m.173kz.com/img/12.png",
+        "id" : 7
+      }
+    ],
+    "like": [
+      {
+        "picLink": "http://m.173kz.com/img/6802809001.jpg",
+        "price": 665.00,
+        "oldPrice": 790.00,
+        "txt": "同溢堂 益安宁丸 112s*3瓶",
+        "size": [],
+        "details": [
+          {
+            "title": "同溢堂 益安宁丸 112丸*3瓶",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/6802809001/68028090018829.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/6802809001/68028090012842.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/6802809001/68028090016542.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/6802809001/68028090013284.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/6802809001/68028090017798.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 665.00,
+                "mprice": 948.00
+              },
+              {
+                "txt": "2盒起：660元/盒",
+                "num": 2,
+                "price": 660.00,
+                "mprice": 948.00
+              },
+              {
+                "txt": "4盒起：655元/盒",
+                "num": 1,
+                "price": 655.00,
+                "mprice": 948.00
+              }
+            ],
+            "suitWrapper": [
+              {
+                "txt": "【套餐一】同溢堂 益安宁丸 112s*3瓶*1盒+鸿茅 鸿茅药酒(礼品装) 500毫升*4瓶",
+                "num": 1,
+                "price": 1540.00,
+                "mprice": 1688.00
+              },
+              {
+                "txt": "【买1得3】同溢堂 益安宁丸 112s*3瓶*1盒+驱风油*1瓶+麝香壮骨膏*1盒",
+                "num": 1,
+                "price": 669.00,
+                "mprice": 804.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "白云山 活心丸 20mg*30s",
+                "price": "15.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/11/1660419001/16604190013179.jpeg"
+              },
+              {
+                "txt": "美兰特 复方单硝酸异山梨酯缓释片 10片(60mg/75mg)",
+                "price": "12.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2016/11/4964899001/49648990018450.jpg"
+              },
+              {
+                "txt": "康缘 大株红景天胶囊 0.38g*30粒",
+                "price": "34.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2016/05/7648417001/76484170013560.jpg"
+              },
+              {
+                "txt": "君碧莎 益康胶囊 0.4g*24粒",
+                "price": "21.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2017/02/5035000001/50350000019320.jpg"
+              },
+              {
+                "txt": "松柏 速效救心丸 40mg*60丸*2瓶",
+                "price": "29.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/150917105923/1509171059239533.jpg"
+              },
+              {
+                "txt": "卡地西 西洛他唑片 50mg*12片",
+                "price": "30.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150521155925/1505211559253753.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "picLink": "http://m.173kz.com/img/4730293001.jpg",
+        "price": 69.00,
+        "oldPrice": 82.00,
+        "txt": "太极 补肾益寿胶囊 0.3g*60粒",
+        "size": ["0.3g*60粒"],
+        "details": [
+          {
+            "title": "太极 补肾益寿胶囊 0.3g*60粒",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4730293001/47302930014770.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4730293001/47302930014568.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4730293001/47302930018710.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4730293001/47302930019436.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4730293001/47302930013607.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 69.00,
+                "mprice": 88.00
+              },
+              {
+                "txt": "3盒起：68.5元/盒，可使用30天",
+                "num": 3,
+                "price": 68.50,
+                "mprice": 88.00
+              },
+              {
+                "txt": "6盒起：68元/盒，可使用60天",
+                "num": 1,
+                "price": 68.00,
+                "mprice": 88.00
+              },
+              {
+                "txt": "9盒起：67.5元/盒，可使用90天",
+                "num": 1,
+                "price": 67.50,
+                "mprice": 88.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "同仁堂 金鸡虎补丸 240粒",
+                "price": "29.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/6997469001/69974690015703.jpg"
+              },
+              {
+                "txt": "同仁堂 补肾强身片 0.28g*60片",
+                "price": "21.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/7170421001/71704210019294.jpg"
+              },
+              {
+                "txt": "同仁堂 锁精丸 4g*12袋",
+                "price": "118.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/5594604001/55946040012593.jpg"
+              },
+              {
+                "txt": "太极 补肾益寿胶囊 0.3g*60粒",
+                "price": "69.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/4730293001/47302930014770.jpg"
+              },
+              {
+                "txt": "众生 固肾合剂 10支",
+                "price": "32.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150521155925/1505211559253753.jpg"
+              },
+                              {
+                "txt": "汇仁牌 肾宝片 0.7g*126片",
+                "price": "322.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/28/20157281647405408.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "picLink": "http://m.173kz.com/img/150807090149.jpg",
+        "price": 39.00,
+        "oldPrice": 50.00,
+        "txt": "腾药 鱼鳔补肾丸 6g*12袋",
+        "size": [],
+        "details": [
+          {
+            "title": "腾药 鱼鳔补肾丸 6g*12袋",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150807090149/1508070901494473.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150807090149/1508070901495916.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150807090149/1508070901497358.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150807090149/1508070901492343.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150807090149/1508070901497358.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 37.00,
+                "mprice": 75.40
+              },
+              {
+                "txt": "5盒起：36元/盒（可使用30天）",
+                "num": 5,
+                "price": 36.00,
+                "mprice": 75.40
+              },
+              {
+                "txt": "10盒起：35元/盒（可使用60天）",
+                "num": 10,
+                "price": 35.00,
+                "mprice": 75.40
+              },
+              {
+                "txt": "15盒起：33元/盒（可使用90天）",
+                "num": 15,
+                "price": 33.00,
+                "mprice": 75.40
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "同仁堂 人参鹿茸丸 9g*10s",
+                "price": "53.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/1726222001/17262220011392.jpg"
+              },
+              {
+                "txt": "中亚 至宝三鞭丸 6.25g*8盒",
+                "price": "87.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/07/150730154570/1507301545709362.jpg"
+              },
+              {
+                "txt": "唐龙 金锁固精丸 4板*48粒",
+                "price": "8.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150518154330/1505181543303638.jpg"
+              },
+              {
+                "txt": "佛慈 金锁固精丸 200丸",
+                "price": "10.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/05/150518158473/1505181584732585.jpg"
+              },
+              {
+                "txt": "汇仁牌 肾宝片 0.7g*126片",
+                "price": "322.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/28/20157281647405408.jpg"
+              },
+                              {
+                "txt": "明复 三肾丸 6g*10丸/板*1板/盒",
+                "price": "12.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/11/1516235001/15162350012265.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "picLink": "http://m.173kz.com/img/170713146855.jpg",
+        "price": 295.00,
+        "oldPrice": 358.00,
+        "txt": "养无极 补肺丸 9g*10丸*4板",
+        "size": ["9g*10丸*4板"],
+        "details": [
+          {
+            "title": "养无极 补肺丸 9g*10丸*4板",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146855/1707131468557164.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146855/1707131468552610.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146855/1707131468558597.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146855/1707131468553424.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146855/1707131468556967.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 250.00,
+                "mprice": 328.00
+              },
+              {
+                "txt": "2盒起：249元/盒，40天量",
+                "num": 2,
+                "price": 249.00,
+                "mprice": 328.00
+              },
+              {
+                "txt": "5盒起：248元/盒，100天量",
+                "num": 5,
+                "price": 248.00,
+                "mprice": 328.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "葵花 强力枇杷露 100毫升",
+                "price": "14.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/3758251001/37582510012816.jpg"
+              },
+              {
+                "txt": "康恩贝 复方甘草浙贝氯化铵片 50mg*24片",
+                "price": "13.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/150911149218/1509111492189927.jpg"
+              },
+              {
+                "txt": "益佰 克咳胶囊 21粒",
+                "price": "18.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2017/06/7325917001/73259170016436.jpg"
+              },
+              {
+                "txt": "同仁堂 养阴清肺丸 9G*10丸",
+                "price": "23.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2017/07/170713146332/1707131463323655.jpg"
+              },
+              {
+                "txt": "特一 止咳宝片 0.35g*12s*2板",
+                "price": "24.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/5373359001/53733590014966.jpg"
+              },
+                              {
+                "txt": "同仁堂 通宣理肺丸 6g*10丸",
+                "price": "10.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/31/201573117653836.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "picLink": "http://m.173kz.com/img/8317131001.jpg",
+        "price": 21.00,
+        "oldPrice": 27.50,
+        "txt": "同济堂 虫草清肺胶囊 0.3g*24粒",
+        "size": ["0.3g*24粒"],
+        "details": [
+          {
+            "title": "同济堂 虫草清肺胶囊 0.3g*24粒",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2016/04/8317131001/83171310013535.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2016/04/8317131001/83171310017216.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2016/04/8317131001/83171310011917.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2016/04/8317131001/83171310014144.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2016/04/8317131001/83171310012830.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 28.50,
+                "mprice": 58.56
+              },
+              {
+                "txt": "8盒起：28元/盒，32天量",
+                "num": 8,
+                "price": 28.00,
+                "mprice": 58.56
+              },
+              {
+                "txt": "15盒起：27.5元/盒，60天量",
+                "num": 15,
+                "price": 27.50,
+                "mprice": 58.56
+              },
+              {
+                "txt": "20盒起：27元/盒，80天量",
+                "num": 20,
+                "price": 27.00,
+                "mprice": 58.56
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "百令 百令胶囊 0.5g*42粒",
+                "price": "66.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2016/04/6236707001/62367070016860.jpeg"
+              },
+              {
+                "txt": "伤风止咳糖浆 非那根 100ml",
+                "price": "7.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/11/5451266001/54512660017179.jpg"
+              },
+              {
+                "txt": "999 咽炎片 0.25g*12s*2板",
+                "price": "6.90",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/6/2015761456577284.jpg"
+              },
+              {
+                "txt": "罗浮山 了哥王片 0.22g*60片",
+                "price": "7.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/11/6900888001/69008880018706.jpg"
+              },
+              {
+                "txt": "泛福舒 细菌溶解产物胶囊 7mg*10s",
+                "price": "121.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/08/150827165181/1508271651815454.jpg"
+              },
+              {
+                "txt": "特一 止咳宝片 0.35g*12片/板*3板",
+                "price": "38.00",
+                "picLink": "http://m.173kz.com/images/defaultImg2.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "picLink": "http://m.173kz.com/img/4632732001.jpg",
+        "price": 79.00,
+        "oldPrice": 102.00,
+        "txt": "百年丹 固本延龄丸 9g*18s",
+        "size": [],
+        "details": [
+          {
+            "title": "百年丹 固本延龄丸 9g*18丸",
+            "pic": [
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/4632732001/46327320012856.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/4632732001/46327320011855.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/4632732001/46327320013297.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/4632732001/46327320011668.jpg",
+              "http://img.173kz.com/FileUpload/ProductImgMobile/2015/09/4632732001/46327320019225.jpg"
+            ],
+            "suit": [
+              {
+                "txt": "一盒装",
+                "num": 1,
+                "price": 79.00,
+                "mprice": 88.00
+              },
+              {
+                "txt": "3盒起：76元/盒",
+                "num": 3,
+                "price": 76.00,
+                "mprice": 88.00
+              },
+              {
+                "txt": "5盒起：72元/盒",
+                "num": 5,
+                "price": 72.00,
+                "mprice": 88.00
+              },
+              {
+                "txt": "10盒起：69元/盒",
+                "num": 10,
+                "price": 69.00,
+                "mprice": 88.00
+              }
+            ],
+            "state": "现在有货",
+            "recommend": [
+              {
+                "txt": "白云山中一 六味地黄丸 60g",
+                "price": "8.00",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2016/05/2805508001/28055080018465.jpg"
+              },
+              {
+                "txt": "同仁堂 归芍地黄丸 9G*10丸",
+                "price": "13.50",
+                "picLink": "http://img.173kz.com/FileUpload/ProductImgMobile/2015/12/6584003001/65840030015527.jpg"
+              },
+              {
+                "txt": "同仁堂 人参固本丸 9g*10丸",
+                "price": "43.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/7/23/20157231619527623.jpg"
+              },
+              {
+                "txt": "同仁堂 六味地黄丸[水蜜丸] 360粒",
+                "price": "17.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/19/20156191112126647.jpg"
+              },
+                              {
+                "txt": "佛慈 知柏地黄丸 200丸",
+                "price": "15.00",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/18/20156181545238855.jpg"
+              },
+              {
+                "txt": "九芝堂 杞菊地黄丸 200丸",
+                "price": "12.50",
+                "picLink": "http://img.173kz.com/FileUpload/PictureMobile/2015/6/18/20156181542347090.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "kinds": {
+    "title": [
+      {
+        "icon": "http://m.173kz.com/img/type/img1.png",
+        "txt": "中西药品"
+      },
+      {
+        "icon": "http://m.173kz.com/img/type/img2.png",
+        "txt": "医疗器械"
+      },
+      {
+        "icon": "http://m.173kz.com/img/type/img3.png",
+        "txt": "传统滋补"
+      },
+      {
+        "icon": "http://m.173kz.com/img/type/img4.png",
+        "txt": "计生情趣"
+      },
+      {
+        "icon": "http://m.173kz.com/img/type/img5.png",
+        "txt": "保健品"
+      },
+      {
+        "icon": "http://m.173kz.com/img/type/img6.png",
+        "txt": "日用品"
+      },
+      {
+        "icon": "http://m.173kz.com/img/type/img7.png",
+        "txt": "食品"
+      }
+    ],
+    "list": [
+      {
+        "infos": [
+          {
+            "txt": "神经/精神科",
+            "desc": [
+              "神经损伤",
+              "面瘫",
+              "多动症",
+              "抑郁症",
+              "焦虑症",
+              "舞蹈症",
+              "老年痴呆症",
+              "肌肉萎缩",
+              "多发性神经炎",
+              "癫痫"
+            ]
+          },
+          {
+            "txt": "器官移植",
+            "desc": [
+              "肾移植"
+            ]
+          },
+          {
+            "txt": "肝胆科",
+            "desc": [
+              "胆囊炎",
+              "黄疸",
+              "肝气郁结",
+              "脂肪肝",
+              "肝纤维化",
+              "肝炎",
+              "肝胆湿热"
+            ]
+          },
+          {
+            "txt": "心脑血管",
+            "desc": [
+              "静脉血栓",
+              "心绞痛",
+              "周围血管疾病",
+              "眩晕症",
+              "脑外伤",
+              "动脉硬化",
+              "高血压"
+            ]
+          },
+          {
+            "txt": "男科",
+            "desc": [
+              "补肾",
+              "男性不育",
+              "前列腺病"
+            ]
+          },
+          {
+            "txt": "肿瘤",
+            "desc": [
+              "肿瘤止吐",
+              "结直肠癌",
+              "升白细胞",
+              "甲状腺瘤",
+              "淋巴癌",
+              "白血病",
+              "肿瘤辅助药"
+            ]
+          },
+          {
+            "txt": "内分泌系统",
+            "desc": [
+              "低钾血症",
+              "甲亢甲减"
+            ]
+          },
+          {
+            "txt": "骨科",
+            "desc": [
+              "腰椎盘骨突出",
+              "风湿性类风湿",
+              "骨质增生",
+              "关节炎",
+              "腰椎病",
+              "肌肉关节痛"
+            ]
+          },
+          {
+            "txt": "呼吸系统",
+            "desc": [
+              "扁桃体炎",
+              "化痰止咳类",
+              "咳嗽",
+              "滋肾养肺",
+              "肺结核"
+            ]
+          },
+          {
+            "txt": "五官科",
+            "desc": [
+              "耳聋耳鸣",
+              "五官科外用",
+              "鼻炎鼻窦炎",
+              "中耳炎",
+              "口腔溃疡",
+              "咽炎",
+              "牙龈炎",
+              "清热解毒",
+              "白内障",
+              "干眼症",
+              "结膜炎",
+              "抗感染",
+              "眼部炎症"
+            ]
+          },
+          {
+            "txt": "妇科",
+            "desc": [
+              "卵巢疾病",
+              "白带异常",
+              "绝经",
+              "避孕",
+              "乳腺增生",
+              "乳汁短少",
+              "更年期",
+              "妇科外用",
+              "益气安神"
+            ]
+          },
+          {
+            "txt": "儿科",
+            "desc": [
+              "痱子湿疹",
+              "维生素",
+              "钙铁锌",
+              "消化不良",
+              "清热解毒",
+              "化痰止咳平喘",
+              "佝偻病",
+              "开胃消食",
+              "自汗盗汗"
+            ]
+          },
+          {
+            "txt": "消化系统",
+            "desc": [
+              "急性肠胃炎",
+              "消化道出血",
+              "慢性胃炎",
+              "克罗恩病",
+              "腹泻",
+              "肛肠外用",
+              "胃溃疡",
+              "消化不良",
+              "结肠炎",
+              "便秘",
+              "脾胃虚弱",
+              "肠炎",
+              "健脾益胃",
+              "镇吐",
+              "消化道溃疡",
+              "蛔虫病"
+            ]
+          },
+          {
+            "txt": "泌尿生殖类",
+            "desc": [
+              "附睾炎/精囊炎",
+              "尿频尿崩",
+              "慢性肾功能不全",
+              "尿路结石",
+              "尿路感染"
+            ]
+          },
+          {
+            "txt": "家庭常备",
+            "desc": [
+              "外用常备",
+              "眼耳口鼻",
+              "基础营养"
+            ]
+          },
+          {
+            "txt": "抗感染",
+            "desc": [
+              "抗生素类"
+            ]
+          },
+          {
+            "txt": "免疫及造血类",
+            "desc": [
+              "白细胞减少症"
+            ]
+          },
+          {
+            "txt": "补益类",
+            "desc": [
+              "滋补肝肾",
+              "益气养血补肾",
+              "益气养阴"
+            ]
+          },
+          {
+            "txt": "营养保健",
+            "desc": [
+              "滋补保健",
+              "提高免疫力"
+            ]
+          },
+          {
+            "txt": "维矿补充",
+            "desc": [
+              "补充维生素/矿物质",
+              "白细胞减少症"
+            ]
+          },
+          {
+            "txt": "皮肤性病科",
+            "desc": [
+              "蛇虫咬伤",
+              "皮肤外用",
+              "湿疹",
+              "牛皮癣",
+              "痤疮",
+              "荨麻疹",
+              "灰指甲",
+              "腋臭",
+              "疥疮",
+              "系统性红斑狼疮",
+              "蚊虫叮咬",
+              "皮肤感染",
+              "性病",
+              "疖肿",
+              "扁平苔癣",
+              "脓疱疮",
+              "手足癣"
+            ]
+          }
+        ]
+      },
+      {
+        "infos": [
+          {
+            "txt": "检测器材",
+            "desc": [
+              "血压计",
+              "检测仪器"
+            ]
+          },
+          {
+            "txt": "检测试纸",
+            "desc": [
+              "血糖试纸"
+            ]
+          },
+          {
+            "txt": "康复理疗",
+            "desc": [
+              "电磁治疗仪",
+              "雾化器",
+              "理疗产品",
+              "治疗仪器",
+              "护理器材"
+            ]
+          },
+          {
+            "txt": "保健器材",
+            "desc": [
+              "拔罐器",
+              "贴膏"
+            ]
+          },
+          {
+            "txt": "辅助器材",
+            "desc": [
+              "轮椅"
+            ]
+          },
+          {
+            "txt": "家庭常备器具",
+            "desc": [
+              "体温计",
+              "外用贴剂"
+            ]
+          },
+          {
+            "txt": "计生用品",
+            "desc": [
+              "避孕套"
+            ]
+          }
+        ]
+      },
+      {
+        "infos": [
+          {
+            "txt": "参茸贵细",
+            "desc": [
+              "人参",
+              "西洋参",
+              "冬虫夏草",
+              "鹿茸",
+              "雪蛤",
+              "鱼胶"
+            ]
+          },
+          {
+            "txt": "中药饮片",
+            "desc": [
+              "其他",
+              "天麻",
+              "芡实",
+              "绞股蓝",
+              "麦冬",
+              "山楂",
+              "丹参",
+              "黄芪",
+              "续断",
+              "生地",
+              "何首乌",
+              "玛咖",
+              "茯苓",
+              "薏苡仁"
+            ]
+          },
+          {
+            "txt": "药食汤料",
+            "desc": [
+              "虫草花",
+              "海底椰",
+              "银耳",
+              "黄芪",
+              "当归",
+              "沙参",
+              "红枣"
+            ]
+          },
+          {
+            "txt": "花茶",
+            "desc": [
+              "菊花",
+              "莲子心",
+              "柠檬",
+              "玫瑰花",
+              "紫罗兰",
+              "柠檬片",
+              "茉莉花",
+              "百合",
+              "陈皮"
+            ]
+          }
+        ]
+      },
+      {
+        "infos": [
+          {
+            "txt": "避孕套"
+          },
+          {
+            "txt": "验孕/排卵"
+          },
+          {
+            "txt": "润滑/延时"
+          },
+          {
+            "txt": "女用情趣"
+          },
+          {
+            "txt": "男用情趣"
+          }
+        ]
+      },
+      {
+        "infos": [
+          {
+            "txt": "大众保健",
+            "desc": [
+              "清咽",
+              "基础营养"
+            ]
+          },
+          {
+            "txt": "维矿物质",
+            "desc": [
+              "维生素C",
+              "维生素E",
+              "复合维生素"
+            ]
+          },
+          {
+            "txt": "男士保健",
+            "desc": [
+              "补肾强身",
+              "解酒护肝养胃"
+            ]
+          },
+          {
+            "txt": "女士保健",
+            "desc": [
+              "母婴保健 ",
+              "延缓衰老",
+              "美白祛斑",
+              "丰胸美体"
+            ]
+          },
+          {
+            "txt": "儿童保健",
+            "desc": [
+              "补充维生素/矿物质",
+              "提高免疫力",
+              "促进骨骼生长"
+            ]
+          },
+          {
+            "txt": "中老年保健",
+            "desc": [
+              "增强免疫力",
+              "改善睡眠",
+              "骨骼关节养护"
+            ]
+          }
+        ]
+      },
+      {
+        "infos": [
+          {
+            "txt": "个人护理"
+          },
+          {
+            "txt": "家居用品"
+          },
+          {
+            "txt": "润滑/延时"
+          },
+          {
+            "txt": "女性用品"
+          },
+          {
+            "txt": "外用常备"
+          }
+        ]
+      },
+      {
+        "infos": [
+          {
+            "txt": "软糖"
+          },
+          {
+            "txt": "红糖姜茶"
+          },
+          {
+            "txt": "蜂蜜"
+          },
+          {
+            "txt": "蛇舌草晶"
+          },
+          {
+            "txt": "蜜枣"
+          }
+        ]
+      }
+    ]
+  }
+}
